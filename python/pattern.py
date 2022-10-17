@@ -7,6 +7,7 @@ a b c               c b a
 a b                   b a
 a                       a
 '''
+
 characters = 'a b c d e f g f e d c b a'
 print(characters)
 for i in range(6):
