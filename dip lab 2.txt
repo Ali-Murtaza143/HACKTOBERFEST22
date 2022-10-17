@@ -1,0 +1,80 @@
+Lab 2 
+......................................................
+task 02:
+%18CS30
+clear all;
+f1 = fopen('C:\Users\Harris\Desktop\a1.dat' ,'r');
+f2 = fopen('C:\Users\Harris\Desktop\a2.dat' ,'r');
+result_data1 = fscanf(f1,'%d%f',[2,4]);
+result_data2 = fscanf(f2,'%d%f',[2,4]);
+fclose(f1)
+fclose(f2)
+data1=result_data1;
+for i=1:4
+    for j=1:2
+        annualdata(i,j)=data1(i,j);
+    end
+end
+    data=result_data2;
+for i=1:4
+    for j=1:2
+        annualdata(i+4,j)=data(i,j);
+    end
+end
+
+annualdata1=sortrows(annauldata);
+plot(annualdata1(:,1),annualdata1(:,2));
+axis([1 8 300 470])
+grid
+
+
+
+
+
+
+%18CS30
+A=imread('C:\Users\Quratulain\Desktop\image.jpg');
+subplot(2,2,1);
+imshow(A);
+title('original image - 18CS10');
+ 
+b=imrotate(A,-35,'bilinear','crop');
+subplot(2,2,2);
+imshow(b);
+title('rotate bilinear by 35 image');
+
+c=imrotate(A,-60,'nearest','crop');
+subplot(2,2,3);
+imshow(c);
+title('rotate nearest by 60 image');
+
+d=imrotate(A,-90,'bicubic','crop');
+subplot(2,2,4);
+imshow(d);
+title('rotate bicubic by 90 image');
+
+..........................................................
+
+task 03:
+
+%18CS10
+A=imread('C:\Users\Quratulain\Desktop\18cs10.jpg');
+subplot(2,2,1);
+imshow(A);
+title('original image - 18CS10');
+
+b=flipud(A);
+subplot(2,2,2);
+imshow(b);
+title('Flipud Function');
+
+c=fliplr(A);
+subplot(2,2,3);
+imshow(c);
+title('Fliplr Function');
+
+dim=45;
+d=flipdim(A,dim);
+subplot(2,2,4);
+imshow(d);
+title('Flipdim Function');
