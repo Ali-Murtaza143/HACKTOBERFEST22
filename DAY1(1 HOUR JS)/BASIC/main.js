@@ -1,8 +1,8 @@
-
+// Defining a new function
 
 function myFirstFunc()
 {
-    alert("first Js code ");
+    alert("Popping the alert with my First JS Code! ");
 
 
 }
