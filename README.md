@@ -56,13 +56,11 @@ All the best.
 <h3>Contributers</h3>
 
 <p align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar">
 </p>
 
-<p align="left">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed">
+<p>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar">
 </p>
 
-<p align="right">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar">
-</p>
