@@ -47,18 +47,13 @@ git push origin main
 9. Create a new pull request from your forked repository
 
 
+Don't Forget to ⭐ this repository!
 Enjoy Hacking.
 All the best.
 
 
-<h3>Ali Murtaza bozdar</h3> 
-<h3>hacktoberfest </h3> 
-<h3>hacktoberfest-accepted</h3> 
 
-
-
-(# Hacktoberfest2022)
-<h2> Don't forget to give STAR to this repository </h2>
-
-<h1>Thank you </h1>
-<h1>Ali Murtaza </h1>
+<h3>Contributers</h3>
+![Ali Murtaza Bozdar](https://avatars.githubusercontent.com/u/58934980?v=4)
+![Shahzain Ahmed](https://avatars.githubusercontent.com/u/59369881?v=4)
+![Vishwa Mittar](https://avatars.githubusercontent.com/u/67235733?v=4)
