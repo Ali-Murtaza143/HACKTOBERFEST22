@@ -54,6 +54,8 @@ All the best.
 
 
 <h3>Contributers</h3>
-![Ali Murtaza Bozdar](https://avatars.githubusercontent.com/u/58934980?v=4)
-![Shahzain Ahmed](https://avatars.githubusercontent.com/u/59369881?v=4)
-![Vishwa Mittar](https://avatars.githubusercontent.com/u/67235733?v=4)
+![Ali Murtaza Bozdar](images/murtaza.png)
+
+![Shahzain Ahmed](images/shahzain.jpeg)
+
+![Vishwa Mittar](images/vishwas.jpeg)
