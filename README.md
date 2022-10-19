@@ -57,7 +57,7 @@ All the best.
 
 <h3>Contributors</h3>
 
-<p align="center">
+<p>
 <a href="https://github.com/Ali-Murtaza143">
 	<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar" hspace="10">
 </a>
