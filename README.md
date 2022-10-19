@@ -55,8 +55,8 @@ All the best.
 
 <h3>Contributers</h3>
 
-![Ali Murtaza Bozdar](images/murtaza.png)
+![Ali Murtaza Bozdar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
 
-![Shahzain Ahmed](images/shahzain.jpeg)
+![Shahzain Ahmed](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
 
-![Vishwa Mittar](images/vishwas.jpeg)
+![Vishwa Mittar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
