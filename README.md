@@ -55,11 +55,20 @@ All the best.
 
 
 
-<h3>Contributers</h3>
+<h3>Contributors</h3>
 
 <p align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar" hspace="10">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed" hspace="10">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar" hspace="10">
+<a href="https://github.com/Ali-Murtaza143">
+	<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar" hspace="10">
+</a>
+
+<a href="https://github.com/ShahzainAhmed">
+	<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed" hspace="10">
+</a>
+
+<a href="https://github.com/vishwasluhana">
+	<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar" hspace="10">
+</a>
+
 </p>
 
