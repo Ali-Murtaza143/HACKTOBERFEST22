@@ -57,9 +57,6 @@ All the best.
 
 <p align="center">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar">
-</p>
-
-<p>
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed">
 <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar">
 </p>
