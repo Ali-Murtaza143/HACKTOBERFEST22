@@ -55,18 +55,14 @@ All the best.
 
 <h3>Contributers</h3>
 
-<div>
-
 <p align="center">
-![Ali Murtaza Bozdar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar">
 </p>
 
 <p align="left">
-![Shahzain Ahmed](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed">
 </p>
 
 <p align="right">
-![Vishwa Mittar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar">
 </p>
-
-</div>
