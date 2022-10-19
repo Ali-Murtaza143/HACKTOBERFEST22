@@ -8,31 +8,57 @@ It is back again the time of the year to celebrate Hacktoberfest. This repositor
 <p>Every year in October, an open source event called Hacktoberfest inspires individuals all over the world to actively engage in and contribute to open source projects that are hosted on GitHub and GitLab. By taking part in this event, you may receive a free GitHub swag pack. You must submit 4 pull requests in order to receive that awesome swag pack.</p>
 
 
-## Follow these step -:
+## Follow these steps:
 
-1. Complete the registartion over https://hacktoberfest.com/
-2. Rule are - https://hacktoberfest.com/participation/
-3. Fork this repository.
-4. The copy of main repository is on your PC/Desktop .
+1. Complete the registartion on https://hacktoberfest.com/
+2. Check rules at: https://hacktoberfest.com/participation/
+3. Fork this repository (button on the top).
+4. Clone the forked repository to your PC/Desktop
+```
+git clone https://github.com/<your username>/HACKTOBERFEST22.git
+```
 
+5. Navigate to project directory
+```
+cd HACKTOBERFEST22
+```
 
+6. Add your files
+```
+git add <filename> (for specific file(s))
+```
 
+or
 
-<h3>You can send your pull request to this repository. </h3>
+```
+git add -A (for all files)
+```
+
+7. Commit your changes
+```
+git commit -m 'any message here'
+```
+
+8. Push your local repository
+```
+git push origin main
+```
+
+9. Create a new pull request from your forked repository
+
 
 Enjoy Hacking.
 All the best.
 
 
-<h3>Ali Murtaza </h3> 
-<h3>bozdar </h3> 
+<h3>Ali Murtaza bozdar</h3> 
 <h3>hacktoberfest </h3> 
 <h3>hacktoberfest-accepted</h3> 
 
 
 
 (# Hacktoberfest2022)
-<h2> And don't forget to give STAR to this repository </h2>
+<h2> Don't forget to give STAR to this repository </h2>
 
 <h1>Thank you </h1>
 <h1>Ali Murtaza </h1>
