@@ -48,7 +48,9 @@ git push origin main
 
 
 Don't Forget to ⭐ this repository!
+
 Enjoy Hacking.
+
 All the best.
 
 
@@ -56,8 +58,8 @@ All the best.
 <h3>Contributers</h3>
 
 <p align="center">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed">
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/58934980?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Murtaza Bozdar">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/59369881?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Shahzain Ahmed">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/67235733?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" alt="Vishwa Mittar">
 </p>
 
