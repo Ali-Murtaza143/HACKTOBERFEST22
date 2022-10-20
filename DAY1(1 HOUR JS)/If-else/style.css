@@ -3,3 +3,11 @@ p{
 color: blue;
  
 }
+body {
+  display: block;
+  margin: 8px;
+}
+
+body:focus {
+  outline: none;
+}
