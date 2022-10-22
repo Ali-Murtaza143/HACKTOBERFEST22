@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #FAF0D7;
+}
+
+.wrapper {
+    max-width: 90%;
+}
+
+.wrapper img {
+    width: 100%;
+}
+
+.wrapper h1 {
+    font-size: 20px;
+    padding: 10px 10px;
+    border: 5px solid black;
+    color: #F24C4C;
+}
+
+.wrapper .code-keeper {
+    padding: 20px 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+}
+.wrapper .code-keeper h2 {
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.wrapper .code-keeper p {
+    padding: 5px 0px;
+    font-size: 15px;
+}
+
+#pn {
+    padding: 5px 0px;
+    display: inline-block;
+}
+
+#playto{
+    display: inline-block;   
+}
+
+
+.wrapper .btn {
+    width: 100%;
+}
+
+.wrapper .btn #p1Button,
+#p2Button {
+    padding: 10px 20px;
+    cursor: pointer;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.wrapper .btn #p1Button {
+    background-color: #00FFAB;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.wrapper .btn #p2Button {
+    background-color: #B1BCE6;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: 300;
+}
+
+.wrapper .btn #reset {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #ce4a4a;
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    outline: none;
+    cursor: pointer;
+}
