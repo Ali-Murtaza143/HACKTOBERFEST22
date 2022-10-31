@@ -6,3 +6,19 @@ function myFirstFunc()
 
 
 }
+
+
+function mysecondFunc()
+{
+    alert("Popping the alert with my second JS Code! ");
+
+
+}
+
+
+function mythirdFunc()
+{
+    alert("Popping the alert with my third JS Code! ");
+
+
+}
