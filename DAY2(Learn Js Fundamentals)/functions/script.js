@@ -2,7 +2,7 @@
 
 
 function button(){
-    var text="Javascript is Awesome!";
+    var user="Haris";
 
-   alert(text);
+   alert(user);
 }
