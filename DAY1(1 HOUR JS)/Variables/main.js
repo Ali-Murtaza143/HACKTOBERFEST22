@@ -7,6 +7,10 @@ var vName1='Raza Rehman';
 var vNum2=555;
 var vName2='unar';
 
+const roll = 101;
+const name = "Shanks";
+console.log(roll);
+console.log(name);
 
 function myFunc1()
 {
