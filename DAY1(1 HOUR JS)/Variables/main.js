@@ -1,6 +1,11 @@
 var vNum=100;
-var vName='Ali';
+var vName='Raza';
 
+var vNum1=1000;
+var vName1='Raza Rehman';
+
+var vNum2=555;
+var vName2='unar';
 
 
 function myFunc1()
