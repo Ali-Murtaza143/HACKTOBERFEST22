@@ -1,5 +1,5 @@
-var vNum=100;
-var vName='Raza';
+var age=25;
+var vName='Haris';
 
 var vNum1=1000;
 var vName1='Raza Rehman';
