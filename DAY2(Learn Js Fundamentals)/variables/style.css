@@ -6,3 +6,8 @@ body {
 body:focus {
   outline: none;
 }
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
