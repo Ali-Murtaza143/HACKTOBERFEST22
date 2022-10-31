@@ -14,6 +14,11 @@ header {
   height: 500px;
   background-color: #3400ff;
 }
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
 
 nav {
   float: right;
