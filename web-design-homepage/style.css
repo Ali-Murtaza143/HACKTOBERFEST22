@@ -283,6 +283,11 @@ nav>svg {
   width: 100%;
   height: 220px;
 }
+p {
+  color: blue;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
 
 .footer-left {
   float: left;
