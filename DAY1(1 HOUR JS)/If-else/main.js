@@ -21,13 +21,18 @@ alert("Good");
 
 }
 
+else if(num==0)
+{
+alert("BAD");
+}
 
 else
 {
 
    var VText="Hello world";
-   document.getElementById('paragrapgh').innerHTML=VText;
-
+   const planet = "Earth";
+   document.getElementById('paragraph').innerHTML=VText;
+   console.log("Try Again!");
 
 }
 
